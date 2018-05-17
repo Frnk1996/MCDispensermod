@@ -40,7 +40,7 @@ Blast resistance
   
 Harvesting
   - Can be broken by anything, even bare fists
-  - Only drops dispenser item when broken with an iron or diamond pickaxe
+  - Only drops dispenser item when broken with an iron pickaxe or better
   - Harvest level: 2
 
 Hardness
