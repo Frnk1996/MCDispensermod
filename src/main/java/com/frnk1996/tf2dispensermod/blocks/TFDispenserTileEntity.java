@@ -1,18 +1,13 @@
 package com.frnk1996.tf2dispensermod.blocks;
 
-import net.minecraft.block.material.Material;
-import net.minecraft.client.Minecraft;
 import net.minecraft.entity.player.EntityPlayer;
 import net.minecraft.init.Items;
 import net.minecraft.init.MobEffects;
-import net.minecraft.item.Item;
-import net.minecraft.item.ItemArrow;
 import net.minecraft.item.ItemStack;
 import net.minecraft.potion.PotionEffect;
 import net.minecraft.tileentity.TileEntity;
 import net.minecraft.util.ITickable;
 import net.minecraft.util.math.AxisAlignedBB;
-import net.minecraftforge.client.model.obj.OBJModel;
 
 import java.util.List;
 
@@ -26,7 +21,7 @@ public class TFDispenserTileEntity extends TileEntity implements ITickable {
                 if (!player.capabilities.isCreativeMode) {
                     player.addPotionEffect(new PotionEffect(MobEffects.REGENERATION, 1, 10));
                     player.addPotionEffect(new PotionEffect(MobEffects.SATURATION, 1));
-                    
+
                     int count = 0;
                     for (int slot = 0; slot < player.inventory.getSizeInventory(); slot++) {
                         ItemStack Stack = player.inventory.getStackInSlot(slot);
