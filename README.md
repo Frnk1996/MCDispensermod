@@ -14,7 +14,7 @@ Saturation
 
 Refill ammo
   - The dispenser makes sure you always have a full stack of arrows in your inventory
-  - dispenses about 1 arrow per second
+  - Dispenses about 1 arrow per second
   - As long as you have less than 64 arrows in your inventory
 
 # Crafting recipe
@@ -31,7 +31,7 @@ Ingredients:
 # Dispenser properties
 Range
   - The area of effect is ~1 block in every direction
-  - so approximately 3x3x3 around the block
+  - So approximately 3x3x3 around the block
 
 Blast resistance
   - Extremely tough block, untouchable by explosions
@@ -49,8 +49,8 @@ Hardness
 
 Light level
   - The dispenser emits a dim glow
-  - light level: 6
-  - similar to a dim redstone torch
+  - Light level: 6
+  - Similar to a dim redstone torch
 
 Lastly, the dispenser does not serve players in creative mode.
 
