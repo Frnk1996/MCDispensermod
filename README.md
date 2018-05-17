@@ -1,6 +1,7 @@
 # TF2 dispenser mod for Minecraft
 
-The purpose of this mod is to add the dispenser from the popular free-to-play shooter Team Fortress 2 to Minecraft.
+The purpose of this mod is to add the dispenser from Team Fortress 2 to Minecraft.
+In Team Fortress 2, the dispenser heals nearby players and replenishes their ammo.
 
 # Features
 Standing near(within one block of) the dispenser provides some convenient benefits, namely:
