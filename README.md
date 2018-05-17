@@ -21,7 +21,7 @@ Refill ammo
   - As long as you have less than 64 arrows in your inventory
 
 # Crafting recipe
-
+![Recipe](../src/main/resources/assets/tf2dm/textures/items/wrench.png)
 
 # Dispenser properties
 Blast resistance
