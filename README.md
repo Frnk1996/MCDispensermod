@@ -14,8 +14,8 @@ Saturation
 
 Refill ammo
   - The dispenser makes sure you always have a full stack of arrows in your inventory
+  - As long as you have at least one, but less than 64 arrows in your inventory
   - Dispenses about 1 arrow per second
-  - As long as you have less than 64 arrows in your inventory
 
 # Crafting recipe
 ![Recipe](dispenser_recipe.png)
