@@ -54,6 +54,7 @@ Lastly, the dispenser does not serve players in creative mode.
 
 # Versions
 Minecraft version: 1.12.2
+
 Forge version: 1.12.2-forge1.12.2-14.23.3.2698
 
 # Installation instructions
