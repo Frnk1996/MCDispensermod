@@ -18,7 +18,6 @@ Refill ammo
 
 # Crafting recipe
 ![Recipe](../src/main/resources/assets/tf2dm/textures/items/wrench.png)
-![stack Overflow](http://lmsotfy.com/so.png)
 
 # Dispenser properties
 Blast resistance
