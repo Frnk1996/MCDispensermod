@@ -3,8 +3,6 @@
 The purpose of this mod is to add the dispenser from Team Fortress 2 to Minecraft.
 In Team Fortress 2, the dispenser heals nearby players and replenishes their ammo.
 
-Mod version: 1.0
-
 # Features
 Standing near(within one block of) the dispenser provides some convenient benefits, namely:
 
@@ -53,6 +51,8 @@ Light level
 Lastly, the dispenser does not serve players in creative mode.
 
 # Versions
+Mod version: 1.0
+
 Minecraft version: 1.12.2
 
 Forge version: 1.12.2-forge1.12.2-14.23.3.2698
