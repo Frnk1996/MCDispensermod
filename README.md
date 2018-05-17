@@ -61,4 +61,5 @@ Forge version: 1.12.2-forge1.12.2-14.23.3.2698
   - In your Minecraft launcher, select the Forge profile, and launch the game.
   
 The dispenser can be crafted, or found under the "Redstone" tab in creative mode.
+
 In this tab, a wrench can be found next to the dispenser. This item does not have a function in this version of the mod.
