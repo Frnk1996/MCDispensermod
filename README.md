@@ -4,7 +4,7 @@ The purpose of this mod is to add the dispenser from Team Fortress 2 to Minecraf
 In Team Fortress 2, the dispenser heals nearby players and replenishes their ammo.
 
 # Features
-Standing near(radius: one block) the dispenser provides some convenient benefits, namely:
+Standing near the dispenser provides some convenient benefits, namely:
 
 Healing
   - Health will regenerate much faster
@@ -29,6 +29,10 @@ Ingredients:
   - 4x Iron ingot
 
 # Dispenser properties
+Range
+  - The area of effect is ~1 block in every direction
+  - so approximately 3x3x3 around the block
+
 Blast resistance
   - Extremely tough block, untouchable by explosions
   - Same as blocks like obsidian or anvils
