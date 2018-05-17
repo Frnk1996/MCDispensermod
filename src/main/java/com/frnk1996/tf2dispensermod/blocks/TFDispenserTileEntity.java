@@ -26,8 +26,7 @@ public class TFDispenserTileEntity extends TileEntity implements ITickable {
                 if (!player.capabilities.isCreativeMode) {
                     player.addPotionEffect(new PotionEffect(MobEffects.REGENERATION, 1, 10));
                     player.addPotionEffect(new PotionEffect(MobEffects.SATURATION, 1));
-
-
+                    
                     int count = 0;
                     for (int slot = 0; slot < player.inventory.getSizeInventory(); slot++) {
                         ItemStack Stack = player.inventory.getStackInSlot(slot);
