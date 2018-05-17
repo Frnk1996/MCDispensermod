@@ -2,10 +2,6 @@
 
 The purpose of this mod is to add the dispenser from the popular free-to-play shooter Team Fortress 2 to Minecraft.
 
-  - Type some Markdown on the left
-  - See HTML in the right
-  - Magic
-
 # Features
 Standing near(within one block of) the dispenser provides some convenient benefits, namely:
 
@@ -21,7 +17,8 @@ Refill ammo
   - As long as you have less than 64 arrows in your inventory
 
 # Crafting recipe
-
+![Recipe](../src/main/resources/assets/tf2dm/textures/items/wrench.png)
+![stack Overflow](http://lmsotfy.com/so.png)
 
 # Dispenser properties
 Blast resistance
