@@ -46,7 +46,7 @@ Hardness
 Light level
   - The dispenser emits a dim glow
   - light level: 6
-  - like a dim redstone torch
+  - similar to a dim redstone torch
 
 Lastly, the dispenser does not serve players in creative mode.
 
