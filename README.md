@@ -19,6 +19,14 @@ Refill ammo
 # Crafting recipe
 ![Recipe](dispenser_recipe.png)
 
+Ingredients:
+  - 1x Ghast tear
+  - 1x Arrow
+  - 1x Golden carrot
+  - 1x Dispenser
+  - 1x Redstone block
+  - 4x Iron ingot
+
 # Dispenser properties
 Blast resistance
   - Extremely tough block, untouchable by explosions
