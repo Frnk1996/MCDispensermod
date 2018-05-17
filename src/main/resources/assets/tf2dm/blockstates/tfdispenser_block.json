@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "normal": { "model": "tf2dm:tfdispenser_block" }
+  }
+}

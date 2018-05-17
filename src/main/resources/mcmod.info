@@ -1,0 +1,16 @@
+[
+{
+  "modid": "tf2dm",
+  "name": "Dispenser Mod",
+  "description": "poging #42 dispensermod",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Frank Boer"],
+  "credits": "Internet",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
