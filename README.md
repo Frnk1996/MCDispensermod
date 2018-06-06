@@ -30,7 +30,7 @@ Ingredients:
 
 # Dispenser properties
 Range
-  - The area of effect is ~1 block in every direction
+  - The area of effect is ~2 blocks in every direction
   - So approximately 3x3x3 around the block
 
 Blast resistance
